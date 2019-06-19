@@ -1,0 +1,410 @@
+active
+ALEXrMYERS.com
+
+
+Search
+Message List
+This is your space. Draft messages, list your to-dos, or keep links and files handy. You can also talk to yourself here, but please bear in mind you’ll have to supply both sides of the conversation.
+Alex Myers [2:43 PM]
+morganwhaley [2:42 PM]
+I've done mock interviews with General Assembly graduates and real interviews with gSchool and Turing graduates and can say for sure, specific people always and forever stand out. Things that set these folks apart:
+- Being able to draw correlations between their previous careers/degrees and development. I've seen people talk about how being a chef relates to recursive functions, or how working as a stage hand was like passing function callbacks. That's... that is mind blowing to me. Someone who can think that deeply, I want to hire them.
+- Having a unique voice and turn something average into an experience. I have talked to folks who could barely tell me what drew them to tech, or what they enjoy about it. That gives me next to nothing to work with. Then suddenly I'd talk to someone who could tell an animated story about what happened when they tried to troubleshoot a problem and went down the wrong path and what they did to course-correct.I actually try not to think about hobbies too much, because I think it introduces too much potential for implicit bias. Having said that, I know people whose hobbies tied in directly with something to benefit the work environment, such as when I was interviewing folks to work with large teams in India and had two candidates who had traveled there extensively and seemed to understand cultural and communication barriers. They both got hired.
+Having said all this your mileage will vary, always and forever. Different teams and leadership groups have totally different values.The most successful interviews I have always done, I looked for value alignment, not just "Hey they are hiring, I bet they'll like me!"
+morganwhaley [2:33 PM]
+Also: Tell a story. The market is saturated with a lot of junior developers. What differentiates you from everyone else? I don't want to just see impressive/doable projects. I want to see a PERSON behind those projects.
+Alex Myers [12:55 PM]
+sully [4:18 PM]
+I like to ask the engineers to describe what they are the most proud of code-wise in the project; and then ask them to describe the worst code, and ask follow up questions from there. Can be indicative of issues with code quality, tech debt strategy, proper design time, etc.
+kylecoberly [9:24 AM]
+I have lots and lots of thoughts on leadership, and a lot of them are captured here: https://github.com/kylecoberly/knowledge/wiki/Leading-Others
+GitHub
+kylecoberly/knowledge
+Personal wiki. Contribute to kylecoberly/knowledge development by creating an account on GitHub.
+GitHubGitHub
+kylecoberly/knowledge
+Personal wiki. Contribute to kylecoberly/knowledge development by creating an account on GitHub.
+Alex Myers [1:27 PM]
+larquin [1:21 PM]
+I'm also pretty not fancy with my resume template, I try to keep it pretty bare bones. This was an interesting post: https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/
+reddit
+r/jobs - I'm an ex-recruiter for some of the top companies in the world. I've screened tens of thousands of resumes, and today I published my preferred resume format, free to download as a Word doc, along with some general resume advice.
+7,264 votes and 691 comments so far on Reddit
+redditreddit
+r/jobs - I'm an ex-recruiter for some of the top companies in the world. I've screened tens of thousands of resumes, and today I published my preferred resume format, free to download as a Word doc, along with some general resume advice.
+7,264 votes and 691 comments so far on Reddit
+alejalapeno [12:20 PM]
+
+  *Regarding the ‘Front-End Developer’ position posted to [URL/Site]:*
+
+  I’m a Digital Designer whose ‘eat, sleep, and drink everything design’ journey began when my mother sat me down in front of a computer with Macromedia Flash MX in the 7th grade.
+
+  In high school I created and sold Flash widgets for Myspace resource websites. I saw an opportunity in the fact that Myspace restricted most HTML content, but allowed Flash object embeds. My embedded widgets skirted Myspace’s cross-domain communication restrictions by generating long-form URL’s to pass information to their off-site counterparts; allowing unrivaled interactive content.
+
+  My Web Design & New Media major emphasized and focused on design rather than development. So I taught myself to develop by diving head-first into new languages like PHP, databases like MySQL, and CMS’s like WordPress by taking on freelance jobs and side-projects for friends that challenged me to accomplish builds beyond my then-current capabilities.
+
+  I most recently worked as the “all things digital” designer at a small start-up agency: [company] My boss and CCO was previously from Leo Burnett - Chicago and his wife a senior account manager at Leo Burnett, Wire Stone, CP+B, and Burns Marketing. This afforded me the amazing opportunity to gain insight to the larger agency operations while furthering my skills in a more intimately sized operation.
+
+  With the experience under my belt I’m now looking to further my career in a position that offers the challenge and opportunity of larger projects and clients.
+
+  I use my skills as a developer to efficiently and effectively execute my designs and I believe my talents and work could bring immediate benefit to the position at [company].
+
+  I’m hoping to be given consideration for my wide range of skills and am happy to answer any questions you may have after viewing my works.
+
+  I’ve attached my resume and my portfolio can be viewed at:
+  [mysite].
+
+  Thanks for your time,
+  [First Last]
+  [Number]
+  [Email]
+
+Since we’re talking about cover letters, resumes, and follow-ups I wanted to share my cover letter from when I was looking for my first full “developer” position so my resume was lacking. I’ll address why I made certain choices, what I wouldn’t recommend, etc.Importantly: I had a portfolio site featuring several web projects (for actual clients) and design work, and my resume featured my coding skillsets.
+1) I would normally recommend opening with your goal/objective which in my case was finding “a position that offers the challenge and opportunity of larger projects and clients.” I however had a hard time telling that effectively without the history lead-up.
+2) The bit about what I was doing with Myspace widgets was later added to shoehorn in a small demonstration of development knowledge even back in the day. I consider this a risk, but included it in some of my cover letters.
+3) I specifically call out a few random technologies I picked up and how I did so. Basically name dropping.
+4) My previous company was small “who cares” level from a big agency perspective, so I again name dropped, while listing how the job (despite its size) helped me prepare a ton for larger agency work. Even if your job was in a completely unrelated field, you can still talk about how it’s helped.
+5) “my talents and work could bring immediate benefit to the position” I think actionable, confident wording like this can really help and shows you’re looking to bring something to the table, not just looking for a paycheck (even if you are)
+6) “I’m hoping to be given consideration for my wide range of skills” I was this short because my cover letter was already very long, but normally I would expand this to specifically list what skills you think warrant you being right for that specific job.
+7) I wouldn’t go into so much back story had I not been making the case for a lack of technical positions on my resume.
+Alex Myers [1:40 PM]
+Untitled 
+astv99 [Today at 1:19 PM]
+Is your goal full-stack development? Because you don't list a front-end framework, which I'd imagine will cause your resume to get missed entirely by a lot of companies, and you might as well leave off HTML and CSS. (edited)4 replies
+ALEXrMYERS.com [20 minutes ago]
+full stack. I coded raw css for my capstone project so frameworks completely slipped my mind (edited)slackbot Custom Response [20 minutes ago]
+shh bby is okastv99 [19 minutes ago]
+you should probably mention which of the 3 major front-end frameworks you knowALEXrMYERS.com [18 minutes ago]
+I see the value in that thank you!
+Jacob [Today at 1:28 PM]
+@ALEXrMYERS.com I would consider reducing the non-technical achievements a bit, while we’re on the topic6 replies
+ALEXrMYERS.com [13 minutes ago]
+please elaborate :slightly_smiling_face:Jacob [13 minutes ago]
+
+  Recommended and developed a bonus structure and protocol to qualify department staff for performance bonuses resulting in a 50% increase in approved businesses for membership
+
+This is a well structured “I did this which resulted in that” statement, but doesn’t tell me a ton about what you would do as my web developer.ALEXrMYERS.com [12 minutes ago]
+so only detail relevant parts of the job, not achievements?Jacob [12 minutes ago]
+A few of the more technical ones to help me imagine you doing those things for my company are good, but don’t feel pressed to add 8-10.Jacob [12 minutes ago]
+Maybe 1-3 unrelated “I was great at this job” pointsALEXrMYERS.com [10 minutes ago]
+ahhh thats good to know
+Alex Myers [10:06 PM]
+Steve Ham [4:28 PM]
+Udemy's Black Friday sale has started, all courses are $9.99: https://www.udemy.com/*My personal recommendations for Bootcampers*—i.e., anyone getting started in coding or web development (I've either done or am currently doing these courses and can answer any questions about them):- general | Colt Steele's The Web Developer Bootcamp*** | https://www.udemy.com/the-web-developer-bootcamp/
+- general | Brad Schiff's Git a Web Developer Job | https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/
+- computer science | Colt Steele's JavaScript Algorithms and Data Structures Masterclass | https://www.udemy.com/js-algorithms-and-data-structures-masterclass/
+- React | Andrew Mead's The Complete React Web Developer Course | https://www.udemy.com/react-2nd-edition/
+- Angular | Mosh Hamedani's Complete Angular Course (caveat: hasn't been updated for Angular 6+ and probably won't be) | https://www.udemy.com/the-complete-angular-master-class/
+- Python | Jose Portilla's Complete Python Bootcamp | https://www.udemy.com/complete-python-bootcamp/***A must-do course for any aspiring web dev; everyone should do it! The sequel course, The Advanced Web Developer Bootcamp, isn't as good and not really a must-do. A similar highly-rated course, Rob Percival's The Complete Web Developer Course 2.0, isn't anywhere as good and I recommend avoiding that one. Colt Steele's course is simply way better.Anyone looking for a course on C# and/or .NET may want to consider sticking with one of Mosh Hamedani's, he's very knowledgeable about Microsoft technologies and the vast majority of his courses cover some part of the Microsoft stack. (edited)
+Alex Myers [1:54 PM]
+morganwhaley [4:41 PM]
+My last job, we had a grading rubric, which seems common. We usually had a scale of "absolutely must have" and then another one of "stuff we'd really like to see" and then "stuff we'd really REALLY like to see." The breakdown was usually stuff like:
+- The app runs
+- Meets the basic requirements set forth in the code challenge
+- No plagiarism
+- Includes a README
+- Tests written
+- Follows an accepted modern architecture pattern for the selected framework
+- Variables are named semantically
+- If adding database/API, includes documentation on usage
+- Visual UI, if any, was given at least some level of thought as far as usability
+https://medium.freecodecamp.org/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4
+freeCodeCamp.orgfreeCodeCamp.org
+How you can land a 6-figure job In tech with no connections — tips that got me job offers from…
+Shortly after college, I began chasing something many people want but few ever get: a job they love.
+Reading time
+22 min read
+Feb 20th, 2017
+https://cdn-images-1.medium.com/max/1200/1*d5uPP9Rf30gYHFll7hzatA.png
+Alex Myers [1:01 PM]
+zachzimmerman [12:47 PM]
+Hi Denver Devs! *Cloudbees* :cloud: :bee:  is growing (~100+ new employees in the last year) and hiring for a lot of different positions!
+*(Engineering, Design, Sales, SAs, etc)*We’re Building the World’s First End-to-End Continuous Software Delivery System. We are a worldwide distributed company with the majority of the company working fully remote. Lots of great perks and flexibility. Please check out the link below and reach out with any questions :slightly_smiling_face:https://grnh.se/deaa7de21
+Alex Myers [4:09 PM]
+Olivia [3:07 PM]
+Hello! My company (in NYC) is looking for an amazing Wordpress developer partner (freelance developer preferred) - if you are one or know someone who is, please reach out. Thanks :slightly_smiling_face:Josh Campbell [3:15 PM]
+Hello Denver! First Foundry is spinning up a local studio and is looking for talented Backend, Blockchain, DevOps, and Full Stack engineers:https://www.firstfoundry.co/denver/backend-software-engineer
+https://www.firstfoundry.co/denver/senior-engineer-blockchain
+https://www.firstfoundry.co/denver/engineer-devops
+https://www.firstfoundry.co/denver/full-stack-web-engineerFirst Foundry is a team of world class engineers and designers with a passion for building highly scalable real-time technology products with cutting-edge presentation patterns for mobile, web, desktop, and MR/AR/VR interaction. We're an ambitious new brand of technology company with a model that's equal parts venture capital firm, research incubator, and software development studio.
+Alex Myers [4:05 PM]
+https://sendgrid.com/careers/roles/?location=denver
+SendGridSendGrid
+Roles | SendGrid
+https://sendgrid.com/brand/sg-logo-dark-facebook.jpg
+Alex Myers [12:21 PM]
+Alan Smith [11:29 AM]
+Heyo! Our team is growing at SendGrid! We’re looking for junior, mid-level, and senior frontend engineers in Denver right now! DM me if you’re interested! React experience and a strong gif game is preferred. :grinning:https://sendgrid.com/careers/role/1453881/?gh_jid=1453881
+https://sendgrid.com/careers/role/1421095/?gh_jid=1421095
+SendGridSendGrid
+Role | Front End Engineer II - Customer Growth
+We are looking for a talented Front End Engineer II - Customer Growth to join SendGrid.
+https://sendgrid.com/wp-content/uploads/2017/02/sg-careers-photo.jpg
+SendGridSendGrid
+Role | Front End Engineer III - Customer Growth
+We are looking for a talented Front End Engineer III - Customer Growth to join SendGrid.
+https://sendgrid.com/wp-content/uploads/2017/02/sg-careers-photo.jpg
+Alex Myers [12:54 PM]
+Brian Schiller [9:36 AM]
+so I think you'll want to do the same sort of thing on herokuAlex Myers [9:37 AM]
+should this also be done with heroku?Brian Schiller [9:37 AM]
+in order to get a python prompt running in a heroku container, you can do `heroku run python`
+Alex Myers [10:15 AM]
+Alexander Dreith [8:44 AM]
+Yes I’ve had to tell recruiters in #topic-gigs before that the experience they’re asking for with React would require having worked at Facebook before it was open sourced, or working with Node before it existed.But “years experience” aren’t just meaningless in job postings, they’re also mostly meaningless in practice. Advocate for your skill level not your time working with a technology. One person’s year in development is another person’s four years.
+Kyle Coberly [7:55 AM]
+If you'd like to do the job, apply. Don't make it your job to disqualify yourself.
+Judson Stevens [6:54 AM]
+@Matt Bing Coming into this a day late, but this is relevant to what you were talking about. It's been linked here before I believe, pretty interesting. The study wasn't specifically on programming, but good info nonetheless. https://talent.works/blog/2018/11/27/the-science-of-the-job-search-part-vii-you-only-need-50-of-job-requirements/
+Cheatsheet — TalentWorks
+The Science of the Job Search, Part VII: You Only Need 50% of Job “Requirements”
+You're as likely to get a job interview meeting 50% of job requirements as meeting 90% of them.
+Nov 27th, 2018Kyle Coberly [7:50 AM]
+In programming it's probably closer to 10%. A lot of postings just rattle off every technology _ever_ in use at the company and hope they find a match. There's even a term for it in recruiting- looking for a "purple squirell." If you "require" experience with a combination of things that's hyper-specific to how your company grew, you'll end up asking for something that's possible to create, but doesn't exist in nature.
+Cheatsheet — TalentWorksCheatsheet — TalentWorks
+The Science of the Job Search, Part VII: You Only Need 50% of Job “Requirements”
+You're as likely to get a job interview meeting 50% of job requirements as meeting 90% of them.
+Nov 27th, 2018
+https://i0.wp.com/talentworks.blog/wp-content/uploads/2018/11/requirements_required-1.png?fit=1168%2C778&ssl=1
+Marc Missey [8:41 PM]
+in tech especially companies are sooo worried about false positives (hiring a fraud) that a lot of interviews are more technically difficult than the actual job (edited)
+Marc Missey [8:37 PM]
+if you can get an interview and an offer, they've decided you can do it or that they'll pay you to learn.you win
+Alex Myers [5:03 PM]
+Alex 2018 Dev Resume
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+Alex Myers [5:37 PM]
+Brian Schiller [5:35 PM]
+in general, try to avoid saying the first number. Don't say a number (even as part of a range) that's lower than what you would accept. I'd go with something like:
+
+  I'm excited to work with ___ because of (exciting industry, commitment to mentorship, strong reputation for quality, etc. pick one of these or come up with something similar). I'm confident we can come to a salary that's competitive in the current market.
+
+if they really push you on a number, give a range where the lower bound is still something you'd be happy with, and the upper bound is more than you expect
+maybe $30-$50?
+Brian Schiller [5:37 PM]
+but present is as more like:
+
+  From talking to others in the area, competitive rates are in the $30-50/hr range
+
+Alex Myers [2:07 PM]
+Josh Thompson [1 minute ago]
+my hot-take is most of these paragraphs begin with "i", or "me", and are about you.People are interested in solving their own problems, and if you're hired for the role, it's to solve problems for the company. You'll save them expenses, or make them money, by solving those problems.So, I'd give a careful reading to the job description and glean as much as you can about why you're being hired, and then speak to _that_ pain point.One paragraph on proving your qualified is sufficient. The rest should be about the company.Josh Thompson [< 1 minute ago]
+Patrick McKenzie is, as usual, the definitive source of wisdom and insight on this topic. This is a long read, but read it carefully: https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/Josh Thompson [< 1 minute ago]
+and of course: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+Alex Myers [2:12 PM]
+Morgan Whaley [2:11 PM]
+My approach is very different from Dreith's _but_ I would not call one "better" than the other. My goals with a cover letter are always:
+- Use a voice that feels authentically me.
+- Acknowledge the company. Say something nice about them. That is often part of my opener.
+- Talk about myself as a holistic person. I will talk about both my work experience, tech experience, and life experience. e.g. how renovating a house is like running a scrum team.
+- A friend of mine once got a job and her cover letter was just a big fucking photo of her cat so ya know. Take all this with a grain of salt.
+Alex Myers [2:20 PM]
+Kyle Coberly [2:16 PM]
+Your resume is some carefully selected facts about yourself; your cover letter is your actual pitch.• A hook, usually around why I'm interested in the company/position and why our goals are aligned
+• A few bullet points on why my qualifications make me uniquely suited for the job, pulling in specific things about the company and position
+• Call to action, like asking if you can talk in person
+Alex Myers [2:51 PM]
+Tim Mensch [2:51 PM]
+@morganwhaley My cover letter advice is simple: After the pleasantries, _paraphrase the job offer_. Say why you're a good match, or why you think you will do well _anyway_ even if you don't appear to be a good match based on the rest of your resume.
+They want skill X, which you have: "I've been using skill X in these ways, on these various projects."
+They want skill Y, which you don't exactly have: "I haven't done Y exactly, but I've done similar things on these projects."
+Alex Myers [3:16 PM]
+Alexander Dreith [3:11 PM]
+You get in an elevator and the person next you gets off the phone saying “yeah let’s post that job opening for _job you’re looking for_”What do you say in the next 12-20 floors to make them think you’d be a good fit for the role?
+Alex Myers [4:39 PM]
+Kevin [4:37 PM]
+"I don't know off the top of my head, but I'm confident I could find out with a little bit of research" is what I would sayduring my interviewsAlex Myers [4:37 PM]
+so I feel like that's gonna be every answer on my end
+or my go to answer is gonna be "I'd ask questions"Scott Moore [4:38 PM]
+That's fine. I had one of those a few months ago (with someone in this channel no less). Nobody died. I went home and wrote up a list of things to study.Kyle McDaniel [4:38 PM]
+Nah, havemore confidence going into itKevin [4:39 PM]
+If you're just starting out there's no way they'd expect you to know everything.  Be confident and learn from each interview before going into the next
+Alex Myers [4:55 PM]
+Scott Moore [4:48 PM]
+to @Kyle McDaniel’s point I want to be clear that I'm not saying that you should just sit there and meekly say "i don't know, please pre-fire me". There's lots of questions where you can ask clarifying questions and find out, oh hey, I do know that, just under a different name. Or things like that. Or you can say "Hey I've never heard of that, but I've tackled a situation that sounds similar so I bet I could figure it out." I'm just saying it's very very normal to hit a blank or five in an interview, and it does not mean you are stupid or you suck at your job.part of why interviewing sucks is that at work, we hit walls all the time and nobody jumps up and screams GET OUT. but in interviews it feels like that's going to happenKyle McDaniel [4:50 PM]
+And in my experience the interviewers expect you to struggle at least a little one some point, and a good interviewer will help you through it
+Alex Myers [12:12 PM]
+Kyle Coberly [11:53 PM]
+It's a hard thing to feel confident in when you're starting, but code is code. The difference between a C for loop, a python list comprehension, and a Haskell map is a lunch chat curiosity. DO SOMETHING TO A GROUP OF SHIT is the thing that people mean when they talk about "core skills" or whatever.Find problems you want to work on- everything else is little
+Alex Myers [1:21 PM]
+Untitled 
+Alex Myers [3:35 PM]
+William Thomas [3:26 PM]
+If you have a project you’ve worked on for someone (non profit is fantastic for this) it will go so so far. Something with a real user as opposed to just an in-class project
+Alex Myers [3:46 PM]
+William Thomas [3:45 PM]
+It’s obviously not a silver bullet, but being able to talk about what a user wanted, how you had to come to a compromise for a smarter implementation etc etc is directly related to what you’re going to be doing as a job and it will make you sound like you can do the role they’re hiring you for
+Alex Myers [1:32 PM]
+Brett B [1:30 PM]
+Shayne Ravin at the Creative Group was really good to work with, and one other dude named Mike over at Robert Half… outside of that not a single positive experience
+Alex Myers [1:50 PM]
+Kyle Coberly [1:49 PM]
+the magic trick with a question you don't know the answer to in an interview is to qualify your no, like Kate said. "I'm not sure, is it like ___?", "I don't have experience with that, but it sounds similar to ____, which I've used for years." "I'm blocked. What I think I should do is ___, but that doesn't seem like the right direction."
+Alex Myers [5:33 PM]
+Alex Myers [4:19 PM]
+let me preface all this by saying, I'm a little envious since I've found out Kerry from class has found a job; it's kinda fueled the competition / shame in me tbh
+so 1. React project for Code for Denver
+2. Fixing capstone project heroku deployment issues (ideally I should wait until Apr. 16th Ask A Dev, but I can't justify waiting 2 weeks for my project to be deployable)
+3. Deploy every Coding Forward Assignment possible so its viewable by any interested employer
+4. Practice coding interview/ whiteboard problems
+5. Review 2019 Coding Forward exercises / hw, etc
+I want to get React on my resume as I see it listed in numerous / tons of jobs; am I better off practicing coding interview exercises over prioritizing React on my resume?
+Also, I'm convinced the Code for Denver project must be important as it offers active users, etc
+Vince Buscarello [4:36 PM]
+Thanks for the honesty about Kerry, as someone who has struggled with that jazz I would highly encourage youmake a habit of rejecting comparisons to other people. You can use it as encouragement to work harder but there will _always_ be a bigger fish in this industry, no matter what.
+Alex Myers [4:38 PM]
+you're right, comparing your journey / life / career etc to other ppl is a toxic habit
+Vince Buscarello [4:38 PM]
+yep, and it takes time to break :smile:  remember Kerry's BF is a web dev so ...I would say stick with 1, 2, and 4 only. you can't really "deploy" a basic code exercise so forget about 3. I would also limit 5 to 15 minutes before and after class as well as during class, and thats about it. Stick to 1 and 2 for the most part with a few 4s, set some small goals in each of these so you can check them off the list. you have a trello or anything to keep track?
+Alex Myers [1:40 PM]
+I would make a new git repo with just a README, and just mess with it like crazy.
+Alex Myers [1:37 PM]
+thats an interesting idea tbh
+Vince Buscarello [1:38 PM]
+Commit, branch, rebase,
+so your just thinking about git, not the code
+Alex Myers [1:38 PM]
+I like that a lot
+Vince Buscarello [1:38 PM]
+Then google around for git commands and see what they do
+my favs are  rebase
+ reset
+ diffand dont be afraid to spend awhile on the basics  checkout
+ checkout -b
+ add
+ commit
+Alex Myers [2:12 PM]
+Brian Schiller [2:10 PM]
+so, not thinking about flask routes, but just about "what if I try and invite..."
+Alex Myers [5:06 PM]
+Alex Myers   [10 days ago]
+does anyone have any idea for user testing services? preferably free?   .... is this the right channel to ask this.... (edited)
+Marcea Ennamorato   [5 days ago]
+usabilityhub.com :slightly_smiling_face:
+Marcea Ennamorato   [5 days ago]
+https://www.surveymonkey.com/
+surveymonkey.comsurveymonkey.com
+SurveyMonkey: The World’s Most Popular Free Online Survey Tool
+Use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.
+Marcea Ennamorato   [5 days ago]
+way more options as well, but usually you get limited options when you go the free route, however, not impossible. (edited)
+Alex Myers   [< 1 minute ago]
+dope. I'll see what I can do with these.  thanks for another save Marcea (edited) 
+surveymonkey.comsurveymonkey.com
+SurveyMonkey: The World’s Most Popular Free Online Survey Tool
+Use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.
+Alex Myers [5:57 PM]
+Alexander Dreith [5:46 PM]
+Unless you need anything special or unique just a plain ol' video embed code.
+Alex Myers [5:46 PM]
+whew I'm totally grateful you were available to provide insight just now
+do you do the vimeo with a WP plug in or?
+Justin Hall [5:50 PM]
+Depends on what you’re looking to do but plopping the embed code into your post will work just fine.
+Alex Myers [5:51 PM]
+I'd say whatever is the least effort and easiest to implement for sure
+Alexander Dreith [5:52 PM]
+No just paste the embed code and the editor will even nowadays show the actual video embedded right in the editor.
+Alex Myers [5:53 PM]
+that's all awesome
+Justin Hall [5:53 PM]
+If you’re using gutenberg there is an embed block
+Alexander Dreith [5:53 PM]
+Usually have some CSS that makes sure they're always centered or responsive, but it's not necessary. Just A E S T H E T I C
+Alexander Dreith [5:41 PM]
+Wordpress uses TinyMCE for its posts. A WYSIWYG editor. The images inserted into the body of posts (not the post thumbnail or something else) are stored in the database as `<img src="imgurl" width="100" height="200" />` or such. It stores the actual markup for the post. So you can either go to the post directly and manually edit the inserted image. Or use CSS to target all images in post bodies.
+Alex Myers [1:59 PM]
+Patrick Nicklaus [2:23 PM]
+Community Funded is looking for a QA engineer to help us break stuff, fix it, then break it harder!! We got a wicked cool tech stack, a team of lovable nerds and a product that we're all ridiculously proud of. Hit me up with any questions or to apply and hope y'all are having wonderful wednesdays!!!
+Word Document
+QA Engineer Job Description.docx
+310 kB Word Document
+KeynesYouDigIt [9:35 AM]
+@channel Once again I’m posting a job at the worst possible time, the Friday evening before a 3 day weekend, but I have a junior position! It’s in Boulder and they require at least some professional experience with Java and can’t do someone straight out of Code school, but it’s definitely junior and will start doing support work while you ramp up for 6-12 months and once you are ready will be put on the software engineering team with senior devs. So basically have to prove yourself, but I know there are plenty of folks looking for the chance to do that. Please email kevin@code-talent.com and I can send over more info. Have a nice weekend everyone! (from topic-gigs)
+Slackbot [1:59 PM]
+Sorry, but only admins are allowed to use that mention.
+Alex Myers [4:28 PM]
+Justin Hall [3:30 PM]
+By looking at the code in the template and the admin screen and finding where it is generated.
+You could resize the width with CSS. This, of course, would not change the aspect ratio. You’d need to regenerate the images do that.
+
+```.wp-image-1464 {
+  max-width: 200px // or whatever
+}```
+
+^^^ I’d recommend a different selector that would select all the images on the page of course.
+Alex Myers [4:07 PM]
+regenerate the images, do you mean re-upload to the media library, etc?
+ezrafree [4:08 PM]
+no, he means regenerate the “thumbnails” (aka image sizes) with a plugin like Regenerate Thumbnails
+Justin Hall [4:08 PM]
+^^ Yes, or with wpcli https://developer.wordpress.org/cli/commands/media/regenerate/
+ezrafree [4:08 PM]
+true, wp-cli is probably world’s better for that task haha
+Alex Myers [4:08 PM]
+interesting
+ezrafree [4:12 PM]
+yeah if you’ve specified any image sizes in your theme with add_image_size() it will regenerate those image sizes from the original as well… if no additional sizes were specified it only generates the default sizes that can be set in the wp-admin under `Settings > Media`
+Alexander Dreith [4:28 PM]
+FWIW, by the sound of your problem I highly doubt regenerating thumbnail sizes would solve the issue. There's too many other possibilities to take a stab at without knowing what you're dealing with specifically though. First things first, track the image down in the admin interface and find how it's getting into the post/content. Maybe you can just edit it there. If not, then the code is the next place to look.
+Alex Myers [1:21 PM]
+Alex Myers [1:09 PM]
+Can you seasoned design folk recommend essential resources / guides to learning the fundamentals of design patterns / theory?
+:bird: Danny Fritz [1:16 PM]
+i'm not seasoned, but i liked The Design of Everyday Things. And I know other people like the book Don't Make Me Think
+Steve Ham [1:21 PM]
+http://www.karenx.com/blog/how-to-become-a-designer-without-going-to-design-school/
+karenx.comkarenx.com
+How to become a designer without going to design school | Karen X. Cheng
+I got my job as a designer without going to design school. I had hacked together my own design education in 6 months while working a full-time job. I didn't
+https://design.tutsplus.com/articles/50-totally-free-lessons-in-graphic-design-theory--psd-2916
+Design &amp; Illustration Envato Tuts+Design & Illustration Envato Tuts+
+50 Totally Free Lessons in Graphic Design Theory
+While many of us can create something that looks good in Photoshop or attractive when spliced into CSS, but do we actually understand the design theory behind what we create? Theory is the missing...
+Alex Myers [1:43 PM]
+Dan Hannigan [1:36 PM]
+Ahh okay, right on. So +1 from me for the resources mentioned above, they’ll probably get you far enough in design concepts that you can get along. I think most folks need to take a deep dive on color theory & layout as the bign’s that really help drill down why you’re doing what and to start focusing your design eye. A fun exercise to do would be before you even start reading these things go find a few websites/apps that you thing are just _slick_ design-wise and jot them down somewhere. Start reading, start learning, and try to apply what you’re learning to those sites to figure out _why_ they might be so appealing to you. Outside of that there’s a series of more reference style books I still enjoy flipping though, they’re a bit old, but they really take deep dives on specific aspects: https://www.amazon.com/gp/bookseries/B00CJ204NK/ref=dp_st_2940373345
+Elyza Brillantes [1:37 PM]
+@ALEXrMYERS.com reading up on Gestalt Principles might be a good starting point! i think for most “non-designer” folk, it helps explain the WHY something feels cohesive or not. i don’t have one specific source, but a quick google search on it and i found this article that explains the principles as well as shows some examples out in the wild.https://www.usertesting.com/blog/gestalt-principles/
+UserTesting BlogUserTesting Blog
+7 Gestalt Principles of Visual Perception | UserTesting Blog
+This article discusses seven Gestalt principles that directly apply to modern design, and includes examples of how they're used in website, mobile and app designs.
+Apr 10th
+https://blog.usertesting.com/wp-content/uploads/2016/02/gestalt-principles-630x419.jpg
+Elyza Brillantes [1:42 PM]
+https://cantunsee.space/ << also recently came across this resource. i personally think some of the medium / hard challenges get just a scosche persnickety, but it’s sort of fun and can help you start recognizing some UI design patterns
+cantunsee.spacecantunsee.space
+Can't Unsee
+A game where your attention to details earns you a lot of coins. WARNING: Once you see the difference between the images, you won't be able to unsee it
+https://cantunsee.space/og-image.png
+Alexander Dreith [1:43 PM]
+Focusing on the fundamentals is a good start because they're always there and always consistent, like the rules of design, which will also let you know when you can and can't break them. things like gradients, or certain colors and such are always in cyclical ebb and flow of fads, popularity, overdone, etc.But things like composition/layout (hierarchy, shape), color theory, typography, etc. will always be the same and are what the trends are built upon
+Typically imo: Fundamentals > History > Current Trends > Specific Fields (UX, Print, etc.)
+http://ui-patterns.com/patterns << and one more design pattern resource — more library style, so you can search for pretty much anything you’re designing.
+ui-patterns.com
+Design patterns
+It has long been common practice in software design to use libraries of recurring solutions to solve common problems in software design. Such solutions are also called design patterns.
+History will show you how/why we got to current things like structured gridded website layouts being in a way an evolution of Swiss Design (https://assets.justinmind.com/blog/wp-content/uploads/2018/09/swiss-style-poster-flush-left-ragged-right.png
+https://assets.justinmind.com/blog/wp-content/uploads/2018/09/swiss-style-poster-flush-left-ragged-right.png
+Alex Myers [2:00 PM]
+Steve Ham [2:00 PM]
+@ALEXrMYERS.com This upcoming event may also be relevant: https://generalassemb.ly/education/design-for-all/denver/79086
+generalassemb.lygeneralassemb.ly
+Design for All
+Over 1 billion people have disabilities. Join us as we learn how to design websites and apps that are accessible to people with physical and situational disabilities.
+https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/11949/Screen_Shot_2019-05-31_at_10.38.02_AM.png
+Alex Myers [2:21 PM]
+Alex Myers [2:01 PM]
+interesting.  so concepts for accessibility and design can ultimately carry over to design for anybody I take it?
+Steve Ham [2:05 PM]
+yup, sure do
+Ashley Carter [2:08 PM]
+https://rosenfeldmedia.com/books/a-web-for-everyone/
+Rosenfeld MediaRosenfeld Media
+A Web for Everyone - Rosenfeld Media
+A Web for Everyone provides solutions: practical advice and examples of how to create sites that everyone can use without sacrificing design or innovation.
+this book is fan :clap::skin-tone-4: tas :clap::skin-tone-4: tic :clap::skin-tone-4:
+ultimately, the lesson learned in this book is: accessible design is just _good_ design
+Rosenfeld MediaRosenfeld Media
+A Web for Everyone - Rosenfeld Media
+A Web for Everyone provides solutions: practical advice and examples of how to create sites that everyone can use without sacrificing design or innovation.
